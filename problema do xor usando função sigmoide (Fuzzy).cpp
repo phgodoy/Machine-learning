@@ -1,4 +1,4 @@
-//problema do xor usando fun��o sigmoide (Fuzzy)
+//problema do xor usando funcao sigmoide (Fuzzy)
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
