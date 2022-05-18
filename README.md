@@ -1,6 +1,6 @@
 # Machine-learning
 Algoritmos de machine learning feitos em C na facudade:
--Backpropagation.
+<p>-Backpropagation.</p>
 -Monte Carlo.
 -problema do xor usando funcao sigmoide (Fuzzy).
 -problema do xor usando if.
